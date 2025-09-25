@@ -7,7 +7,7 @@ function ajabaja() {
 
 console.log("Hej Hej!")
 
-console.log("Hoppsan");
+console.log("Hoppsanhejsan");
 console.log("Hej!")
 const conflict = "alltid"
 
