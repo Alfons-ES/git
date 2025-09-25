@@ -1,5 +1,9 @@
 "use strict"
 
+function ajabaja() {
+    console.log("hejsvejs")
+}
+
 console.log("Hej Hej!")
 
 
