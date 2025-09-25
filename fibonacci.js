@@ -7,7 +7,7 @@ function ajabaja() {
 
 console.log("Hej Hej!")
 
-
+console.log("Hoppsan");
 console.log("Hej!")
 
 console.log("Hanna");
