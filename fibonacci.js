@@ -6,9 +6,8 @@ function ajabaja() {
 }
 
 console.log("Hej Hej!")
-
-
 console.log("Hej!")
+const conflict = "alltid"
 
 console.log("Hanna");
 
