@@ -12,7 +12,7 @@ console.log("Hej!")
 
 console.log("Hanna");
 
-let conflict = true
+console.log("tjena")
 
 let x = 123
 let y = 321
