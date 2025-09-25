@@ -15,7 +15,7 @@ console.log("Hanna");
 
 console.log("tjena")
 
-let x = 123
+let x = 1265
 let y = 321
 console.log(z)
 
