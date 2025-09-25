@@ -1,7 +1,8 @@
 "use strict"
 
 function ajabaja() {
-    console.log("hejsvejs")
+    x = y + z
+    console.log(x)
 }
 
 console.log("Hej Hej!")
@@ -17,3 +18,5 @@ let x = 123
 let y = 321
 let z = x + y
 console.log(z)
+
+ajabaja()
